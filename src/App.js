@@ -19,6 +19,7 @@ function App() {
         </a>
         <h1>hello</h1>
         <p>haiu r y g</p>
+        <p>new</p>
       </header>
     </div>
   );
