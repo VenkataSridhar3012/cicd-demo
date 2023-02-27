@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <h1>hello</h1>
-        <p>hai</p>
+        <p>haiu</p>
       </header>
     </div>
   );
